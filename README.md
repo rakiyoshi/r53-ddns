@@ -6,7 +6,7 @@ AWS Route53 DDNS
 - Install modules
 
 ```bash
-git clone https://github.com/RyohAkiyoshi/r53-ddns.git
+git clone https://github.com/rakiyoshi/r53-ddns.git
 npm install -g serverless
 ```
 
